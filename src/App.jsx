@@ -353,6 +353,9 @@ Reglas:
           <button onClick={() => setPage("privacy")} style={{ background: "none", border: "none", cursor: "pointer", color: "var(--color-text-secondary)", fontSize: 13, textDecoration: "underline" }}>Política de Privacidad</button>
           <button onClick={() => setPage("terms")} style={{ background: "none", border: "none", cursor: "pointer", color: "var(--color-text-secondary)", fontSize: 13, textDecoration: "underline" }}>Términos y Condiciones</button>
           <span style={{ color: "var(--color-text-secondary)", fontSize: 13 }}>contact@toughtalk.app</span>
+<a href='https://cafecito.app/toughtalk' rel='noopener' target='_blank'>
+  <img srcSet='https://cdn.cafecito.app/imgs/buttons/button_6.png 1x, https://cdn.cafecito.app/imgs/buttons/button_6_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_6_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_6.png' alt='Invitame un café en cafecito.app' style={{ height: 28 }} />
+</a>
         </div>
         <p style={{ fontSize: 11, color: "var(--color-text-secondary)", marginTop: "0.75rem", opacity: 0.6 }}>© 2025 ToughTalk · Generado con IA · El usuario es responsable del mensaje que envía.</p>
       </footer>
