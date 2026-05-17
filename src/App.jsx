@@ -21,7 +21,7 @@ const FREE_LIMIT = 3;
 const STORAGE_KEY = "toughtalk_usage";
 
 // 👇 REEMPLAZÁ esta URL con la de tu Cloudflare Worker
-const WORKER_URL = "https://TU-WORKER.TU-USUARIO.workers.dev";
+const WORKER_URL = "https://floral-fog-eeectoughtalk.lgrinspon.workers.dev";
 
 function getUsage() {
   try {
